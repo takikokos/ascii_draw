@@ -8,9 +8,14 @@ I think i got very similar result using the basic idea:
 More explanations in source code :)
 
 Usage:
+
 ~$ python3 -m vevn env
+
 ~$ source ./env/bin/activate
+
 ~$ pip install -r requirements.txt
+
 ~$ python ascdraw.py -h
+
  
 P.S. there are some images i tested my methods on and results i got in folders 
