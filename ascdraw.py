@@ -6,7 +6,7 @@ from sys import argv as args
 
 
 SYMBOLS_FNAME_0x00ffff = "letters_stat2.txt" # i used different files for experiments, sometimes it's better not to use many symbols (65535) but only 300
-SYMBOLS_FNAME_300 = "letters_stat.txt"
+SYMBOLS_FNAME_300 = "letters_stat.txt" # these are files generated with create_symbols_pil
 HEGIHT_CONST = 400 # image will be resized to this height, saving aspect ratio for width
 FONT_PATH = "fonts/DejaVuSansMono.ttf"
 
